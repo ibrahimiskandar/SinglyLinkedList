@@ -1,0 +1,8 @@
+C:\Users\Ibrahim\source\repos\NodeList\NodeList\bin\Debug\NodeList.exe.config
+C:\Users\Ibrahim\source\repos\NodeList\NodeList\bin\Debug\NodeList.exe
+C:\Users\Ibrahim\source\repos\NodeList\NodeList\bin\Debug\NodeList.pdb
+C:\Users\Ibrahim\source\repos\NodeList\NodeList\obj\Debug\NodeList.csproj.AssemblyReference.cache
+C:\Users\Ibrahim\source\repos\NodeList\NodeList\obj\Debug\NodeList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ibrahim\source\repos\NodeList\NodeList\obj\Debug\NodeList.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\source\repos\NodeList\NodeList\obj\Debug\NodeList.exe
+C:\Users\Ibrahim\source\repos\NodeList\NodeList\obj\Debug\NodeList.pdb
